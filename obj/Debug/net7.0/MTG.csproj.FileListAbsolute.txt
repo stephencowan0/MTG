@@ -1,0 +1,14 @@
+C:\Users\StephenCowan\MTG\bin\Debug\net7.0\MTG.exe
+C:\Users\StephenCowan\MTG\bin\Debug\net7.0\MTG.deps.json
+C:\Users\StephenCowan\MTG\bin\Debug\net7.0\MTG.runtimeconfig.json
+C:\Users\StephenCowan\MTG\bin\Debug\net7.0\MTG.dll
+C:\Users\StephenCowan\MTG\bin\Debug\net7.0\MTG.pdb
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.AssemblyInfoInputs.cache
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.AssemblyInfo.cs
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.csproj.CoreCompileInputs.cache
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.dll
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\refint\MTG.dll
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.pdb
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\MTG.genruntimeconfig.cache
+C:\Users\StephenCowan\MTG\obj\Debug\net7.0\ref\MTG.dll
